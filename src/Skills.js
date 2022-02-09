@@ -1,7 +1,7 @@
 import React from "react";
 import "./Skills.css";
 
-function Skills() {
+export const Skills = () => {
   //  Up To Top Btn
   window.addEventListener("scroll", function () {
     const upToTop = document.querySelector("a.bottom__to__top");
@@ -128,7 +128,8 @@ function Skills() {
         </a>
       </div>
     </div>
+    </div>
   );
-}
+            }
 
-export default Skills;
+{/* export default Skills */}

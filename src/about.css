@@ -16,25 +16,24 @@
   display: flex;
   margin: 0rem 2rem;
   padding: 2rem;
-  border: 3px solid black;
+  border: 2px solid black;
 }
 .about-section .para p {
   color: white;
-  font-size: 1rem;
+  font-size: 1.7rem;
   line-height: 40px;
-  margin: 1rem 2rem;
+  margin: 10rem 2rem;
 }
 .para  p {
   text-align: center;
   padding-top:10%;
   padding-right: 1%;
 
-
 }
 .profile-img img {
   width: 350px;
-  border: 6px solid #131212;
-  border-radius: 50%;
+  border: 2px solid #131212;
+  border-radius: 0;
 
   margin: 5.6rem 2rem;
 }

@@ -1,8 +1,7 @@
 import React from "react";
 import "./Project.css";
-import Image from "./img/nykaa.png";
-import Img from "./img/healthkart.png";
-
+import Image from "./img/Coursera-clone-ss.png";
+import Img from "./img/Purplle-clone-ss.png";
 
 export default function Projects() {
   return (
@@ -15,13 +14,14 @@ export default function Projects() {
               <img src={Image} alt="project" />
               <h2>Clone of Purplle</h2>
               <p>
-              Purplle is India’s one of the leading beauty and fashion platform that offers
-              a comprehensive range of cosmetics, engagement prodducts and expert assistance.
+                Purplle is India’s one of the leading beauty and fashion
+                platform that offers a comprehensive range of cosmetics,
+                engagement prodducts and expert assistance.
               </p>
-              <p>Toolkit: HTML | CSS | Javascript</p>
+              <p>Tool-kit: HTML | CSS | Javascript</p>
 
               <a
-                href="https://srinivasgokarla.github.io/nykaa/"
+                href="https://purplle-cw.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -35,16 +35,16 @@ export default function Projects() {
                 <button>GitHub</button>
               </a>
             </div>
-           
+
             <div className="one">
               <img src={Img} alt="project" />
               <h2>Clone of Coursera</h2>
               <p>
-              About
-              One of the top e-learning platform, that helps students and professional learn new skills and excel in their careers.
+                About One of the top e-learning platform, that helps students
+                and professional learn new skills and excel in their careers.
               </p>
               <p>
-                Toolkit: HTML | CSS | Javascript | Nodejs | MongoDB | Express
+                Tool-kit: HTML | CSS | Javascript | Nodejs | MongoDB | Express
               </p>
 
               <a

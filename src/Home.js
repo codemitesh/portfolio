@@ -92,7 +92,7 @@ function Home() {
                
                 <div className="resume-option">
                   <a href="fw12_209_Mitesh_Sawant.pdf" download="fw12_209_Mitesh_Sawant.pdf">
-                    <button className="btn highlighted-btn">Download The Resume Here</button>
+                    <button className="btn highlighted-btn">Download My Resume</button>
                   </a>
                 </div>
               </div>

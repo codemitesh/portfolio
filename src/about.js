@@ -17,7 +17,8 @@ export default function About() {
             <p>
               A Mechanical Engineer turned Web Developer, with the expertise in
               MERN Stack along with HTML, CSS and JavaScript and sound knowledge
-              of Data Structures, ready to explore the world of technology.
+              of Data Structures. I possess team work and remote work abilities
+              & ready to explore the world of technology.
               <br />
             </p>
           </div>

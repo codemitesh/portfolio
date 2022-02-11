@@ -6,23 +6,24 @@ export default function Contacts() {
       <div className="contacts" id="Contact">
         <h1>Get in Touch at</h1>
         <div className="center-div">
+          <div className="phone">
+            <i className="fa fa-phone"> </i>
 
-        <div className="phone">
-          <i className="fa fa-phone"> </i>
-
-          <a href="telnpm s:+91 8208108365 / 8698385574" rel="noreferrer">
-            +91 8208108365 / 8698385574
-          </a>
-        </div>
-        <div className="phone">
-            <i className="fa fa-envelope-o"></i>
-            <a href="mailto: codemitesh@gmail.com">
-            codemitesh@gmail.com
+            <a href="tel:+91 8208108365 / 8698385574" rel="noreferrer">
+              +91 8208108365 / 8698385574
             </a>
           </div>
+          <div className="phone">
+            <i className="fa fa-envelope-o"></i>
+            <a href="mailto: codemitesh@gmail.com">codemitesh@gmail.com</a>
           </div>
+        </div>
 
-        <a href="https://github.com/codemitesh" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/codemitesh"
+          target="_blank"
+          rel="noreferrer"
+        >
           <i className="fa fa-github"></i>
         </a>
         <a
@@ -32,14 +33,14 @@ export default function Contacts() {
         >
           <i className="fa fa-linkedin"></i>
         </a>
-       
-        {/* <a
-          href="https://twitter.com/GokarlaSrinivas"
+
+        <a
+          href="https://twitter.com/miteshsawant95"
           target="_blank"
           rel="noreferrer"
         >
           <i className="fa fa-twitter"></i>
-        </a> */}
+        </a>
         <a href="mailto: codemitesh@gmail.com">
           <i className="fa fa-envelope-o"></i>
         </a>

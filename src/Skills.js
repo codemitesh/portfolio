@@ -95,7 +95,7 @@ export const Skills = () => {
                     src="https://img.icons8.com/color/70/000000/visual-studio-code-2019.png"
                     alt="vs"
                   />
-                  <p>Visual Studio Code</p>
+                  <p>Visual Studio</p>
                 </div>
                 <div className="icon-name">
                   <img

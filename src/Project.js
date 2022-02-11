@@ -1,7 +1,7 @@
 import React from "react";
 import "./Project.css";
-import Image from "./img/Coursera-clone-ss.png";
-import Img from "./img/Purplle-clone-ss.png";
+import Image from "./img/Purplle-clone-ss.png";
+import Img from "./img/Coursera-clone-ss.png";
 
 export default function Projects() {
   return (
@@ -12,13 +12,17 @@ export default function Projects() {
           <div className="center">
             <div className="one">
               <img src={Image} alt="project" />
-              <h2>Clone of Purplle</h2>
+              <h1>Clone of Purplle</h1>
               <p>
                 Purplle is India’s one of the leading beauty and fashion
                 platform that offers a comprehensive range of cosmetics,
                 engagement prodducts and expert assistance.
               </p>
-              <p>Tool-kit: HTML | CSS | Javascript</p>
+              <h6>
+                Tech-Stack:
+              </h6>
+              <p>HTML | CSS | Javascript</p>
+              
 
               <a
                 href="https://purplle-cw.vercel.app/"
@@ -38,15 +42,18 @@ export default function Projects() {
 
             <div className="one">
               <img src={Img} alt="project" />
-              <h2>Clone of Coursera</h2>
+              <h1>Clone of Coursera</h1>
               <p>
                 One of the top e-learning platform, which provides a variety of
                 new courses that help students and professional learn new
                 skills and excel in their careers.
               </p>
 
+              <h6>
+                Tech-Stack:
+              </h6>
               <p>
-                Tool-kit: HTML | CSS | Javascript | Nodejs | MongoDB | Express
+              HTML | CSS | Javascript | Nodejs | MongoDB | Express
               </p>
 
               <a

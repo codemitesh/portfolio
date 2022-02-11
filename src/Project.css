@@ -1,5 +1,5 @@
 .projects {
-  background-color: #010101;
+  background-color: #191919;
   width: 100%;
 }
 .projects h1 {
@@ -7,6 +7,7 @@
   color: #26a1da;
   font-size: 3rem;
   font-weight: 500;
+  margin-top: 5%;
 }
 .project-section {
   width: 80%;
@@ -20,17 +21,26 @@
 .one {
   width: 600px;
   border: 2px solid;
-  background-color: #191919;
+  background-color: black;
   margin: 2rem auto;
   padding: 6px;
   border-top-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
 }
-.one p,
-h2 {
+.one p {
   color: white;
   margin: 1rem;
   font-weight: 100;
+}
+.one h6 {
+  color: white;
+  margin: 1rem;
+  font-weight: bold;
+}
+.one h1 {
+  color: #26a1da;
+  margin: 1rem;
+  font-style: bold;
 }
 .one img {
   margin: auto;

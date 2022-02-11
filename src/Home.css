@@ -1,5 +1,5 @@
-.home__bg {
-   /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
+.home_bg {
+   /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
    background: linear-gradient(
     -45deg,
    
@@ -28,7 +28,8 @@
 background-size: 400% 400%;
 animation: gradient 10s ease-in infinite;
 height: 100vh;
-}
+*/
+} 
 
 
 @keyframes gradient {

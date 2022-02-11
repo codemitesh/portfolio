@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "./img/profile.jpg";
+import Image from "./img/profile.png";
 
 import "./about.css";
 export default function About() {
@@ -23,7 +23,7 @@ export default function About() {
             </p>
           </div>
         </div>
-        <div className="clear"></div>
+        {/* <div className="clear"></div> */}
       </div>
     </div>
   );

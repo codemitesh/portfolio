@@ -91,8 +91,8 @@ function Home() {
                 </h3>
                
                 <div className="resume-option">
-                  <a href="fw12_209_Mitesh_Sawant.pdf" download="fw12_209_Mitesh_Sawant.pdf">
-                    <button className="btn highlighted-btn">Download My Resume</button>
+                  <a href="fw12_209_Mitesh_Sawant.pdf" target="_blank" download="fw12_209_Mitesh_Sawant.pdf">
+                    <button className="btn highlighted-btn">Resume</button>
                   </a>
                 </div>
               </div>

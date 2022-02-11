@@ -40,9 +40,11 @@ export default function Projects() {
               <img src={Img} alt="project" />
               <h2>Clone of Coursera</h2>
               <p>
-                About One of the top e-learning platform, that helps students
-                and professional learn new skills and excel in their careers.
+                One of the top e-learning platform, which provides a variety of
+                new courses that help students and professional learn new
+                skills and excel in their careers.
               </p>
+
               <p>
                 Tool-kit: HTML | CSS | Javascript | Nodejs | MongoDB | Express
               </p>

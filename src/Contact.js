@@ -10,7 +10,7 @@ export default function Contacts() {
         <div className="phone">
           <i className="fa fa-phone"> </i>
 
-          <a tel="+91 8208108365 / 8698385574" target="_blank" rel="noreferrer">
+          <a href="telnpm s:+91 8208108365 / 8698385574" rel="noreferrer">
             +91 8208108365 / 8698385574
           </a>
         </div>

@@ -15,14 +15,11 @@ export default function Projects() {
               <h1>Clone of Purplle</h1>
               <p>
                 Purplle is India’s one of the leading beauty and fashion
-                platform that offers a comprehensive range of cosmetics,
-                engagement products and expert assistance.
+                platform that offers a comprehensive range of cosmetic products
+                and expert assistance.
               </p>
-              <h6>
-                Tech-Stack:
-              </h6>
+              <h6>Tech-Stack:</h6>
               <p>HTML | CSS | Javascript</p>
-              
 
               <a
                 href="https://purplle-cw.vercel.app/"
@@ -45,16 +42,12 @@ export default function Projects() {
               <h1>Clone of Coursera</h1>
               <p>
                 One of the top e-learning platform, which provides a variety of
-                new courses that help students and professional learn new
-                skills and excel in their careers.
+                new courses that help students and professional learn new skills
+                and excel in their careers.
               </p>
 
-              <h6>
-                Tech-Stack:
-              </h6>
-              <p>
-              HTML | CSS | Javascript | Nodejs | MongoDB | Express
-              </p>
+              <h6>Tech-Stack:</h6>
+              <p>HTML | CSS | Javascript | Nodejs | MongoDB | Express</p>
 
               <a
                 href="https://courseraclone-backend.herokuapp.com/home_page"

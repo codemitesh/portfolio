@@ -14,8 +14,7 @@ function Home() {
       <div className="home__bg">
         <div className="header d__flex align__items__center pxy__30">
           <div className="logo">
-          <i className="fa fa-code"></i>
-            
+            <i className="fa fa-code"></i>
           </div>
           <div className="navigation pxy__30">
             <div className="ul-li">
@@ -89,9 +88,13 @@ function Home() {
                 <h3 className="home__text sweet pz__10">
                   A Full-stack Web Developer.
                 </h3>
-               
+
                 <div className="resume-option">
-                  <a href="fw12_209_Mitesh_Sawant.pdf" target="_blank" download="fw12_209_Mitesh_Sawant.pdf">
+                  <a
+                    href="https://drive.google.com/file/d/1MV69kbD8Zn3cg-HON2hByhcvEdSWzaZQ/view?usp=sharing"
+                    target="_blank"
+                    download="fw12_209_Mitesh_Sawant.pdf"
+                  >
                     <button className="btn highlighted-btn">Resume</button>
                   </a>
                 </div>

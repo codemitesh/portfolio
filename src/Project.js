@@ -16,7 +16,7 @@ export default function Projects() {
               <p>
                 Purplle is India’s one of the leading beauty and fashion
                 platform that offers a comprehensive range of cosmetics,
-                engagement prodducts and expert assistance.
+                engagement products and expert assistance.
               </p>
               <h6>
                 Tech-Stack:

@@ -41,9 +41,9 @@ export default function Contacts() {
         >
           <i className="fa fa-twitter"></i>
         </a>
-        <a href="mailto: codemitesh@gmail.com">
+        {/* <a href="mailto: codemitesh@gmail.com">
           <i className="fa fa-envelope-o"></i>
-        </a>
+        </a> */}
       </div>
     </div>
   );
